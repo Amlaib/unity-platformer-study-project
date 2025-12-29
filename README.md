@@ -4,4 +4,4 @@ In github desktop top left corner File -> Clone a Repository -> URL - insert git
 
 In unityhub Projects -> top right corner -> Add -> Add project from disc -> select folder with project - the whole folder that was downloaded from github
 
-install appropriate version of unity, remove other version of unity
+install appropriate editor version of unity, remove other editor version(-s) (recomended)
