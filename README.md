@@ -14,7 +14,7 @@ This repository is included as a small portfolio item because it shows practical
 
 ## How to Open
 
-In github desktop top left corner File -> Clone a Repository -> URL - insert github url https://github.com/olviia/UniYear2Platformer
+In github desktop top left corner File -> Clone a Repository -> URL - insert github url of  the repository folder.
 
 In unityhub Projects -> top right corner -> Add -> Add project from disc -> select folder with project - the whole folder that was downloaded from github
 
